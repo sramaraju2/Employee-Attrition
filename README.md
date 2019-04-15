@@ -1,2 +1,3 @@
 # Employee-Attrition
-GitHub session
+
+![image.png](images/HRTalent.png)
